@@ -8,8 +8,7 @@ Dự án này chạy trên trình duyệt của người dùng thông qua script
 
 ## Cập nhật
 
-2025-12-18: Hỗ trợ giao diện mới cho ChatGPT và Perplexity AI.
-2024-05-19: Hỗ trợ giao diện mới và GPT-5.2.
+2025-12-18: Hỗ trợ giao diện mới cho ChatGPT GPT-5.2 và Perplexity AI.
 
 ## Tính năng
 - API miễn phí, không tốn phí.
